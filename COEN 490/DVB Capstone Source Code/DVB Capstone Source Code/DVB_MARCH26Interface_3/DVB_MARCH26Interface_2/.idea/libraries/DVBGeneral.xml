@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DVBGeneral">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DVB_MARCH25/out/artifacts/DVBGeneral_jar/DVBGeneral.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

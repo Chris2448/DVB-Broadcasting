@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DVB_MARCH25:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DVB_MARCH25_jar</output-path>
+    <root id="archive" name="DVB_MARCH25.jar">
+      <element id="module-output" name="DVB_MARCH25" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/DVB_MARCH26Interface_2/DVB_MARCH25/out/artifacts/DVBGeneral_jar/DVBGeneral.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
